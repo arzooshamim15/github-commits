@@ -1,2 +1,3 @@
-// this is wedness day commit ----                       
+// this is wedness day commit ----       
+// this fri day commit ---
    
